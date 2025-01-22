@@ -1,3 +1,2 @@
-print("Hello, Everyone! Wlcome to this place!")
-name = input ("What is your name? ")
-age = input ("Hello " + name + ", how old are you? ")
+__name__ = input ("What is your name? ")
+__age__ = input ("Hello " + __name__ + ", how old are you? ")
